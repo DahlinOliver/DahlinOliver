@@ -1,9 +1,8 @@
 # Hi there, I'm Oliver Dahlin! 👋
 
-### I'm a Front-end Developer student at KYH Stockholm
+### I'm a Front-end Developer
 - 💻 Currently a junior developer
 - 📝 Learning HTML, CSS, Javascript, React, Git, Node, etc
-- 🎓 Graduating in 2022
 - ❤️ My hobbies is to play videogames, design, code and workout
 - 📍 Based in Stockholm, Sweden
 
